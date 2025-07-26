@@ -1,17 +1,17 @@
 ### 📊 My Github Stats:
-![Stc Android's github stats](https://github-readme-stats.vercel.app/api?username=professordeveloper&show_icons=truea&theme=dracula)
+![Stc Android's github stats](https://github-readme-stats.vercel.app/api?username=foregroundUser&show_icons=truea&theme=dracula)
 
     
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=professorDeveloper&theme=dracula&line_height=60&line_width=120"/> </a>
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=foregroundUser&theme=dracula&line_height=60&line_width=120"/> </a>
 
 
 ## My Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=professorDeveloper&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dracula&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=foregroundUser&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dracula&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 ## My Ranks
 
-<img src="https://github-profile-trophy.vercel.app/?username=professorDeveloper&theme=radical" alt="GitHub Ranks" /></a></p>
+<img src="https://github-profile-trophy.vercel.app/?username=foregroundUser&theme=radical" alt="GitHub Ranks" /></a></p>
 
 
 
@@ -30,7 +30,7 @@
 
 # Diagram 
 
-[![ProfessorDeveloper's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=professorDeveloper&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![foregroundUser's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=foregroundUser&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # My Waka Time
 [![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=durov&theme=radical)](https://wakatime.com/@durov)
